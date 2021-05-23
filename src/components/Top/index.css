@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#navbar {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+img[alt="Menu"] {
+  width: 5vw;
+  height: 5vh;
+}
+
+img[alt="Foto de Perfil"] {
+  width: 5vw;
+  height: 10vh;
+  border-radius: 50%;
+}
